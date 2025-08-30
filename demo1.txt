@@ -1,0 +1,3 @@
+this is a demo.
+twinkle twinkle little star.
+the code should find the word twinkle.
